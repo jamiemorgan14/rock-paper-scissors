@@ -1,3 +1,14 @@
-#buttonLayout {
-  width: 100%;
-}
+ .m100 {
+  margin-top: 50vh;
+  position: fixed;
+ }
+
+ .bottomed {
+   position: fixed;
+   bottom: 0;
+ }
+
+ .rps-images {
+   max-height: 500px;
+   width: auto;
+ }
